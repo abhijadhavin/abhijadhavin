@@ -2,6 +2,13 @@ Hi, I'm Abhijeet Jadhav👋
 
 https://www.linkedin.com/in/abhijadhavin/
 
+<b>Programing Language & Technologies</b>
+```bash
+
+NodeJs, PHP, LAMP, ReactJs, VueJs, Laravel, MySQL, MongoDB,  AWS, Nignix, Linux, Windows  
+
+```
+
 About me:
 
 - 🌱 I’m currently Working on NodeJs, ReactJs, mogodb, Mysql 
