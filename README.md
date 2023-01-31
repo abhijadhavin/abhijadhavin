@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I'm Abhijeet Jadhav👋
 
-<!--
-**abhijadhavin/abhijadhavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/abhijadhavin/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me:
+
+- 🌱 I’m currently Working on NodeJs, ReactJs, mogodb, Mysql 
+- 🔭 I’m currently working on LAMP platform with Laravel & Vuejs
+- 👯 I’m looking to collaborate on Laravel,Vuejs,JavaScript And PHP
+- 🤔 I’m currently working on GraphQL, SOAP, REST API 
+- 💬 I’m currently learning GraphQL AI, ML technologis 
+- 📫 How to reach me: abhijadhavin@gmail.com and 919423010409
