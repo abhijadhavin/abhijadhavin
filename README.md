@@ -2,7 +2,6 @@ Hi, I'm Abhijeet Jadhav👋
 
 https://www.linkedin.com/in/abhijadhavin/
 
-
 About me:
 
 - 🌱 I’m currently Working on NodeJs, ReactJs, mogodb, Mysql 
