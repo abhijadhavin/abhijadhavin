@@ -5,13 +5,13 @@ https://www.linkedin.com/in/abhijadhavin/
 <b>Programing Language & Technologies</b>
 ```bash
 
-NodeJs, PHP, LAMP, ReactJs, VueJs, Laravel, MySQL, MongoDB,  AWS, Nignix, Linux, Windows  
+NodeJs, PHP, Python, FastAPI, LAMP, ReactJs, VueJs, Laravel, MySQL, MongoDB,  AWS, Nignix, Linux, Windows  
 
 ```
 
 About me:
 
-- 🌱 I’m currently Working on NodeJs, ReactJs, mogodb, Mysql 
+- 🌱 I’m currently Working on NodeJs, ReactJs, mogodb, Mysql,  Python, FastAPI, 
 - 🔭 I’m currently working on LAMP platform with Laravel & Vuejs
 - 👯 I’m looking to collaborate on Laravel,Vuejs,JavaScript And PHP
 - 🤔 I’m currently working on GraphQL, SOAP, REST API 
